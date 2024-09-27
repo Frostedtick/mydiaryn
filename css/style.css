@@ -16,6 +16,7 @@ p {
 
 .pd {
     font-size: 20px;
+        font-weight: 500;
 }
 
 li {
@@ -25,8 +26,13 @@ li {
 .dz {
     font-size: 19px;
 }
-.container { width: 960px; margin:0 auto; }
-a{
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+a {
     color: rgb(114, 114, 234);
     text-decoration: none;
 }
